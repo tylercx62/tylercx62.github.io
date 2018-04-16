@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Tyler Zhang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/1.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio."
   location         : "Sydney, Australia"
   email            : "tylercx62@gmail.com"
@@ -108,7 +108,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         :
   foursquare       :
   github           : "tylercx62"
   gitlab           :
@@ -269,7 +269,7 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
