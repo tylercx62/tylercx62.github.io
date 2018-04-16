@@ -108,7 +108,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "Tyler Zhang"
+  facebook         : 
   foursquare       :
   github           : "tylercx62"
   gitlab           :
@@ -265,4 +265,11 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
