@@ -2,7 +2,7 @@
 title: "About"
 permalink: "/about/"
 header:
-  image: "/images/about1.jpg"
+  image: "/images/about3.jpg"
 ---
 
-I'm a Data Scientist.
+Keep learning and enjoying.
