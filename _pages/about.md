@@ -5,4 +5,4 @@ header:
   image: "/images/about4.jpg"
 ---
 
-Keep learning and enjoying.
+Keep learning and inspiring.
