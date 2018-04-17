@@ -99,7 +99,7 @@ analytics:
 author:
   name             : "Tyler Zhang"
   avatar           : "/images/1.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio."
+  bio              : "University of Sydney"
   location         : "Sydney, Australia"
   email            : "tylercx62@gmail.com"
   uri              :
@@ -127,7 +127,6 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  education        : "University of Sydney"
 
 # Reading Files
 include:
