@@ -8,9 +8,9 @@ header:
 ---
 1. Python Programming
 * [Start with files](/python01/)
-+ [Exploring the dataset](https://github.com/tylercx62/python_programming/blob/master/ExploringTheDataset.ipynb)
-- [Error handling](https://github.com/tylercx62/python_programming/blob/master/ErrorHandling.ipynb)
-* [Define a class](https://github.com/tylercx62/python_programming/blob/master/DefineClass.ipynb)
++ [Exploring the dataset](/python02/)
+- [Error handling](/python03/)
+* [Define a class](/python04/)
 2. Visualization
 3. Data Analytics
 4. SQL
