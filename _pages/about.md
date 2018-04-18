@@ -7,7 +7,7 @@ header:
 
 Keep learning and inspiring.
 
-Personal technical data scientist path:
+Technical data scientist path:
 
 1. Python Programming
 2. Visualization
