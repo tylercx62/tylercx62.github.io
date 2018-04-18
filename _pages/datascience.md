@@ -7,7 +7,7 @@ header:
   image: "/images/ml2.jpg"
 ---
 1. Python Programming
-* [Start with files](/2018-04-19-python01/)
+* [Start with files](/2018-04-17-perceptron/)
 + [Exploring the dataset](https://github.com/tylercx62/python_programming/blob/master/ExploringTheDataset.ipynb)
 - [Error handling](https://github.com/tylercx62/python_programming/blob/master/ErrorHandling.ipynb)
 * [Define a class](https://github.com/tylercx62/python_programming/blob/master/DefineClass.ipynb)
@@ -19,3 +19,4 @@ header:
 7. Deep Learning
 8. Cloud Computing
 9. Data Structures and Algorithms
+* [Start with files](/about/)
