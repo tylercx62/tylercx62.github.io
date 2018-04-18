@@ -19,3 +19,8 @@ header:
 7. Deep Learning
 8. Cloud Computing
 9. Data Structures and Algorithms
+main:
+  - title: "About"
+    url: /about/
+  - title: "Data Science"
+    url: /data-science/
