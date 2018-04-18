@@ -5,7 +5,7 @@ main:
   - title: "Data Science"
     url: /data-science/
 layout: archive
-permalink: /data-science/
+permalink: /data-science1/
 title: "Data Science Posts"
 author_profile: true
 header:
