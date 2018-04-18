@@ -19,4 +19,4 @@ header:
 7. Deep Learning
 8. Cloud Computing
 9. Data Structures and Algorithms
-* [Start with files](/about1/)
+* [Start with files](/python/)
