@@ -4,7 +4,7 @@ permalink: /data-science/
 title: "Data Science Posts"
 author_profile: true
 header:
-  image: "/images/ml5.jpg"
+  image: "/images/ml5.png"
 ---
 1. Python Programming
 * [Start with files](/python01/)
