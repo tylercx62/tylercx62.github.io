@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Tyler Zhang"
-  avatar           : "/images/SydneyHarbour.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/1.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "University of Sydney"
   location         : "Sydney, Australia"
   email            : "tylercx62@gmail.com"
