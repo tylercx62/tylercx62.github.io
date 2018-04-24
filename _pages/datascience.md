@@ -35,7 +35,7 @@ header:
 * [Knn : Feature Engineering](https://github.com/tylercx62/methods/blob/master/KnnCleanNormFeaSelect602.ipynb)
 * [Knn : Visual Analytics](https://github.com/tylercx62/methods/blob/master/KnnVisualAnalytics603.ipynb)
 * [Linear Regression : Feature Engineering and Feature Selection](https://github.com/tylercx62/methods/blob/master/LinearFeaEngSelect604.ipynb)
-* [Comparison:  Linear Regression, DTree, Random Forest](https://github.com/tylercx62/methods/blob/master/LinearTreeForest605.ipynb)
+* [Comparison:  Linear Regression, DTree and Random Forest](https://github.com/tylercx62/methods/blob/master/LinearTreeForest605.ipynb)
 * [Selecting and Tuning Different Algorithms](https://github.com/tylercx62/methods/blob/master/DataScienceWorkflows601.ipynb)
 * [Genetic Programming : Optimize machine learning pipeline](https://github.com/tylercx62/methods/blob/master/geneticProgramming606.ipynb)
 7. Deep Learning (.ipynb)
