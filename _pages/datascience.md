@@ -42,5 +42,6 @@ header:
 * [Graduate project: A new Deep Learning Based model for Light-field Image Material Classification](https://github.com/tylercx62/graduateProj)
 8. Cloud Computing
 * [Graduate assignment: Spark](https://github.com/tylercx62/sparkAssigment)
-9. Algorithms and Data Structures
-* [All Algorithms and Data Structures in Python](https://github.com/tylercx62/Python)
+9. Data Structures and Algorithms
+* [All Data Structures in Python](https://github.com/tylercx62/Python/tree/master/data_structures)
+* [All Algorithms in Python](https://github.com/tylercx62/Python)
