@@ -11,6 +11,8 @@ header:
 * [Exploring the Dataset : Pandas and Numpy](/python02/)
 * [Error handling](/python03/)
 * [Define a class](/python04/)
+
+**(Down below are links to ipynb files. Make sure to clink in PC environment)**
 2. Visualization
 * [Scatter plots, bar plot and grouped bar plots](https://github.com/tylercx62/methods/blob/master/PandaBarChart201.ipynb)
 * [Scatter plots, histogram and bar plots](https://github.com/tylercx62/methods/blob/master/PandaVisualTwoFeatures203.ipynb)
