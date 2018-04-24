@@ -5,4 +5,6 @@ header:
   image: "/images/SydneyHarbour.jpg"
 ---
 
-Keep learning and inspiring.
+Coding is beautiful.
+
+Open to new ideas, interesting thoughts, ..and mistakes.
