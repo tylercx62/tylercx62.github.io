@@ -5,6 +5,6 @@ header:
   image: "/images/SydneyHarbour.jpg"
 ---
 
-Coding is beautiful.
+I am very passionate about coding and algorithms.
 
-Open to new ideas, interesting thoughts, ..and mistakes.
+Ambitious and open to new ideas.
